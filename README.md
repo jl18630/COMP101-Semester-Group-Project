@@ -1,4 +1,4 @@
-# COMP101_SemesterProject
+# COMP101 - Semester Group Project
 
 Tasked to create a simulation program using the Processing programming tool. 
 The project consisted of five deliverables spanning throughout the midterm, in which assigned teams would present the progress of their program. 
